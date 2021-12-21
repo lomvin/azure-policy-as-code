@@ -4,12 +4,11 @@
     "parameters": {
         "listOfAllowedLocations": {
             "value": [
-                "australiaeast",
-                "australiasoutheast",
-                "eastus",
-                "eastus2",
-                "westus",
-                "westus2"
+                "swedencentral",
+                "westeurope",
+                "northeurope",
+                "westus"
+                
             ]
         },
         "listOfAllowedSKUs": {
@@ -24,7 +23,7 @@
             ]
         },
         "assignmentIdentityLocation": {
-            "value": "australiaeast"
+            "value": "swedencentral"
         },
         "mandatoryTag1Value": {
             "value": "DevTest"
